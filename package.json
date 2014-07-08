@@ -1,0 +1,11 @@
+{
+  "name": "oceanic-theme",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A port of the Oceanic tmTheme for Atom",
+  "repository": "https://github.com/YuukanOO/atom-oceanic-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
